@@ -1,8 +1,8 @@
-# Enterprise DHCP & DNS Lab
+# DHCP & DNS Lab
 
 ## Objective
 
-Designed and configured a small enterprise network using Cisco Packet Tracer, implementing DHCP for automatic IP address assignment and DNS for hostname resolution.
+Designed and configured a small network using Cisco Packet Tracer, implementing DHCP for automatic IP address assignment and DNS for hostname resolution.
 
 ## Network Components
 
